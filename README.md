@@ -12,7 +12,7 @@ Run it from any directory. Outputs are written to `sketch_graphs_dataset/` relat
 
 ```
 sketch_graphs_dataset/
-├── sg_all.npy                      # raw SketchGraphs archive (auto-downloaded, ~3 GB)
+├── sg_all.npy                      # raw SketchGraphs archive (auto-downloaded, ~15 GB)
 ├── sketch_polygons_annotated.json  # filtered polygon annotations
 └── sketch_polygons_preview.png     # 10×10 polygon grid + score distribution
 ```
