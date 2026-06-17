@@ -58,3 +58,5 @@ All tuneable parameters are constants at the top of `dataset_builder.py`:
 | `MIN_AREA_FRACTION` | `0.20` | Minimum polygon area as a fraction of the `[-1, 1]²` box |
 | `SEED` | `1200` | Random seed for reproducibility |
 | `SNAP_DECIMALS` | `4` | Decimal places for endpoint snapping when matching arc/line junctions |
+
+![Alt text](sketch_polygons_preview.png)
